@@ -10,6 +10,10 @@ Kubernetes 1.12 : https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG
 
 Harbor move from sandbox to incubating status : https://www.cncf.io/blog/2018/11/13/harbor-into-incubator/
 
+Envoy Proxy has graduated : https://blog.envoyproxy.io/envoy-graduates-a6f71879852e
+
+Creating a spec for the "Function Pacage" : https://www.cncf.io/blog/2018/12/04/serverless-application-packaging/
+
 ## Harbor
 
 Quick presentation of Harbor https://goharbor.io/
